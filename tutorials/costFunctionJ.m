@@ -1,0 +1,2 @@
+%  This function  calculates cost function for a given data setfunction J = costFunctionJ(X, y, theta)  % X is the design matrix  containing all your training examples  % y is the class labels  m = size(X,1) % number of samples in the training set  predictions = X * theta; % predictions of hypothesis on all m examples  sqrErrors = (predictions - y).^2;  J = (1/(2*m)) * sum(sqrErrors);
+endfunction
