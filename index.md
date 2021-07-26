@@ -16,23 +16,27 @@ _(Notice: Github.io may not support HTML target tag. If you want ctrl+Click will
 You can reach some octave/matlab tutorials from [this page](/tutorials/octave-matlab/){:target="blank"}. Octave is an opensource alternative to MATLAB. The basic usage and common syntax of Octave is inherited from MATLAB, hence most of the coding examples in this course are both matlab and octave compatible.
 
 
-<!-- 
+
 
 ### **LATEST ANNOUNCEMENTS**
 
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
 - Check your attendance and inform me if there is any mistake in your attendance records.
 
+<!-- 
 ### **HOMEWORK**
 
 Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the following link:
 
 - [HOMEWORK03](https://docs.google.com/document/d/1NAyS-RK3hb35td-QcBUruq0XXSCeMKdiP61mgSFJBd0/edit?usp=sharing){:target="blank"}
+-->
 
 
 ### **CLASS PRESENTATIONS**
- - [WEEK09](https://docs.google.com/presentation/d/1qocJ0Q_x_OzRl86uPJJwREETMDUenDOiG9G4yoDpN4Q/edit?usp=sharing){:target="blank"}  
+ - [LECTURE01](https://docs.google.com/presentation/d/e/2PACX-1vQDXa2P8QUxiXqIjHLTIljgMaG88Hu4MRtI9UGkCwez9WrW-lx1aC5FaVX5e3Mw7oJLplVo9fjv-Q92/pub?start=true&loop=true&delayms=60000){:target="blank"}  
  
+
+<!--  
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
  - [Date: 07.12.2018](https://drive.google.com/open?id=1jCoqZT17if455n7cqscQ02MIkGxXUnpH)
 
