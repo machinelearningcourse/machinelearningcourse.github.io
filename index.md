@@ -9,7 +9,7 @@ exclude: true
 
 This is the homepage for our course. Visit this page frequently to see the announcements and other things related with the course.
 
-_(Notice: Github.io does not support HTML target tag. If you want ctrl+Click will open the links in new tabs.)_
+_(Notice: Github.io may not support HTML target tag. If you want ctrl+Click will open the links in new tabs.)_
 
 ### **OCTAVE/MATLAB TUTORIALS**
 
