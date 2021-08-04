@@ -37,6 +37,7 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
  
  - [LECTURE02 Date:27.07.2021](https://docs.google.com/presentation/d/e/2PACX-1vQR7vHCxKYGrh2aXQyd_5CvlcAtNDWwjJdzRjcfndtTOZBh9EvO545YqVp5YV2RqLC7wFI0KFanavTF/pub?start=false&loop=false&delayms=60000){:target="blank"}  
  
+ - [LECTURE03 Date:04.08.2021](https://docs.google.com/presentation/d/e/2PACX-1vTtvItR37zAq2NDRwGK8B6U19ST9CQXVQzfHr4zMGZQTseph28LLw4H3cH9-IzNtO4fA1yWMk3XZRDz/pub?start=false&loop=false&delayms=60000){:target="blank"}  
 
 <!--  
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
