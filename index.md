@@ -41,7 +41,9 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
 
  - [LECTURE04 Date:11.08.2021](https://docs.google.com/presentation/d/e/2PACX-1vTflYlYvd_OlTapNED3BDnKL9-UzmtUmBfw8QyVyAbuNx1tqKEz08rPo6v2masQw6Mf_iGQ4K6guDBB/pub?start=false&loop=false&delayms=60000){:target="blank"}  
 
-- [LECTURE05 Date:18.08.2021](https://docs.google.com/presentation/d/e/2PACX-1vQKQ3PyXiJytBs3DsEO3maEzcF1mcmTE5drv9rxMnbx1BolUspaw5fEYyBOrmdIqVc3D7xcDaTtPHI2/pub?start=true&loop=true&delayms=60000){:target="blank"}  
+ - [LECTURE05 Date:18.08.2021](https://docs.google.com/presentation/d/e/2PACX-1vQKQ3PyXiJytBs3DsEO3maEzcF1mcmTE5drv9rxMnbx1BolUspaw5fEYyBOrmdIqVc3D7xcDaTtPHI2/pub?start=true&loop=true&delayms=60000){:target="blank"}  
+
+
 <!--  
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
  - [Date: 07.12.2018](https://drive.google.com/open?id=1jCoqZT17if455n7cqscQ02MIkGxXUnpH)
