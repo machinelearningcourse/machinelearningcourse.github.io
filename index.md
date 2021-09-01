@@ -43,6 +43,10 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
 
  - [LECTURE05 Date:18.08.2021](https://docs.google.com/presentation/d/e/2PACX-1vQKQ3PyXiJytBs3DsEO3maEzcF1mcmTE5drv9rxMnbx1BolUspaw5fEYyBOrmdIqVc3D7xcDaTtPHI2/pub?start=true&loop=true&delayms=60000){:target="blank"}  
 
+ - [LECTURE06 Date:25.08.2021](https://docs.google.com/presentation/d/e/2PACX-1vS5X6Jc5741UBSfC_ABr6DQB044NFAuNoS_rrJ0kFg-NFgYUz2c8b1APvbPRoL9eejHk2E7yRJ8YreQ/pub?start=true&loop=true&delayms=60000){:target="blank"}  
+
+ - [LECTURE07 Date:01.09.2021](https://docs.google.com/presentation/d/e/2PACX-1vRWO8NDqOBuruyqlnoooYxfMjj0fxJkKuHDcF5jt_p8X9UcB937CblJSLYKoZ1G6bMtpQyUuOB7W_QJ/pub?start=true&loop=true&delayms=60000){:target="blank"}  
+
 
 <!--  
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
