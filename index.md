@@ -45,7 +45,10 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
 
  - [LECTURE06 Date:25.08.2021](https://docs.google.com/presentation/d/e/2PACX-1vS5X6Jc5741UBSfC_ABr6DQB044NFAuNoS_rrJ0kFg-NFgYUz2c8b1APvbPRoL9eejHk2E7yRJ8YreQ/pub?start=true&loop=true&delayms=60000){:target="blank"}  
 
- - [LECTURE07 Date:01.09.2021](https://docs.google.com/presentation/d/e/2PACX-1vRWO8NDqOBuruyqlnoooYxfMjj0fxJkKuHDcF5jt_p8X9UcB937CblJSLYKoZ1G6bMtpQyUuOB7W_QJ/pub?start=true&loop=true&delayms=60000){:target="blank"}  
+ - [LECTURE07 Date:01.09.2021](https://docs.google.com/presentation/d/e/2PACX-1vRWO8NDqOBuruyqlnoooYxfMjj0fxJkKuHDcF5jt_p8X9UcB937CblJSLYKoZ1G6bMtpQyUuOB7W_QJ/pub?start=true&loop=true&delayms=60000){:target="blank"}  ,
+ 
+ - [LECTURE08 Date:08.09.2021](https://github.com/machinelearningcourse/machinelearningcourse.github.io/raw/master/docs/Lecture08.%20Machine%20Learning%20Lecture%20Notes.pdf
+){:target="blank"}   
 
 
 <!--  
