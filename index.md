@@ -50,6 +50,8 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
  - [LECTURE08 Date:08.09.2021](https://github.com/machinelearningcourse/machinelearningcourse.github.io/raw/master/docs/Lecture08.%20Machine%20Learning%20Lecture%20Notes.pdf
 ){:target="blank"}   
 
+ - [LECTURE09 Date:15.09.2021](https://github.com/machinelearningcourse/machinelearningcourse.github.io/raw/master/docs/Lecture09.%20Machine%20Learning%20Lecture%20Notes.pdf
+){:target="blank"}   
 
 <!--  
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
